@@ -1,6 +1,8 @@
 # Nitya Agarwala - @nitya308
 
-I'm a Computer Science and human centered design student at Dartmouth college🌲 passionate about developing user experiences and optimized systems.
+I'm a Computer Science and human centered design student at Dartmouth college🌲 passionate about developing user experiences and optimized systems. <br/>
+
+**Click to view my:**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6.svg?style=for-the-badge&logo=nextdotjs)](https://personal-website-nitya308.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-agarwala)
